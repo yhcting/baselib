@@ -1,0 +1,12 @@
+.*
+*~
+
+/build/
+*.iml
+*.iws
+*.ipr
+*.swp
+local.properties
+
+!.gitignore
+
